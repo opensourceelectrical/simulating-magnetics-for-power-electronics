@@ -1,0 +1,14 @@
+jumpinductorL1upperterminal,wire,wire,wire,wire,wire,Ammeter_L1current,wire,wire,,,Ammeter_L2current,wire,wire,wire,wire,wire,jumpinductorL2upperterminal
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,VariableResistor_L1output,,,VariableResistor_L2output,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,Voltmeter_L1meas,,,,wire,,,wire,,,Voltmeter_L2meas,,,
+,,,,wire,,,,ControlledVoltageSource_L1voltage,,,ControlledVoltageSource_L2voltage,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+,,,,wire,,,,wire,,,wire,,,wire,,,
+jumpinductorL1lowerterminal,wire,wire,wire,wire,wire,wire,wire,wire,,,wire,wire,wire,wire,wire,wire,jumpinductorL2lowerterminal

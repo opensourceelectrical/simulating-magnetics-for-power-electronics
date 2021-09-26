@@ -1,0 +1,17 @@
+jumpxfmer1wdg3term1,wire,wire,Diode_D2,wire,Ammeter_D2,wire,wire,wire,wire,jumpload2term1
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,Capacitor_out2,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,Resistor_Cout2,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+,,,,,,,wire,,,
+jumpxfmer1wdg3term2,wire,wire,wire,wire,wire,wire,wire,wire,wire,jumpload2term2

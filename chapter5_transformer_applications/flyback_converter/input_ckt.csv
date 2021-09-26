@@ -1,0 +1,14 @@
+wire,Ammeter_Iin,wire,wire,wire,wire,wire,wire,jumpxfmer1wdg1term1
+wire,,,,wire,,wire,,
+wire,,,,wire,,wire,,
+Resistor_Rin,,,,wire,,wire,,
+wire,,,,wire,,Voltmeter_primary,,
+wire,,,,wire,,wire,,
+wire,,,,Voltmeter_Vin,,wire,,jumpxfmer1wdg1term2
+VoltageSource_Vin,,,,wire,,wire,,wire
+wire,,,,wire,,wire,wire,wire
+wire,,,,wire,,,,wire
+wire,,,,wire,,,,wire
+wire,,,,wire,,,,Switch_S1
+wire,,,,wire,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire

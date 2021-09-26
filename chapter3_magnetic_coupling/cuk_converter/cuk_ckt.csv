@@ -1,0 +1,14 @@
+wire,wire,wire,wire,wire,Ammeter_L1,Resistor_L1,jumpinductorL1upperterminal,,jumpinductorL1lowerterminal,wire,wire,wire,wire,wire,Capacitor_C1,wire,Resistor_C1,wire,Ammeter_C1,wire,wire,wire,wire,wire,jumpinductorL2lowerterminal,,jumpinductorL2upperterminal,Resistor_L2,Ammeter_L2,wire,wire,wire,wire,wire,wire,wire
+Ammeter_Iin,,,wire,,,,,,,,wire,,wire,,,,,,,,wire,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,wire,,,,,,,,wire,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,wire,wire,wire,wire,Voltmeter_C1,wire,wire,wire,wire,,wire,,,,,,,,wire,,wire,,,wire
+VoltageSource_Vin,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,Capacitor_out,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,Voltmeter_in,,,,,,,,Switch_S1,,,,,,,,,,,,Diode_D1,,,,,,,,wire,,Voltmeter_out,,,Resistor_load
+Resistor_Vin,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,Resistor_out,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,Ammeter_load
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,wire
+wire,,,wire,,,,,,,,wire,,,,,,,,,,,,wire,,,,,,,,wire,,wire,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire

@@ -1,0 +1,8 @@
+Ammeter,L1current,1G,Positive polarity towards (cell) = 1H,
+Ammeter,L2current,1L,Positive polarity towards (cell) = 2L,
+VariableResistor,L1output,4I,Initial resistance = 100.0,Name of control signal = L1output
+VariableResistor,L2output,4L,Initial resistance = 100.0,Name of control signal = L2output
+Voltmeter,L1meas,7E,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6E
+Voltmeter,L2meas,7O,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6O
+ControlledVoltageSource,L1voltage,8I,Positive polarity towards (cell) = 7I,Name of control signal = L1voltage
+ControlledVoltageSource,L2voltage,8L,Positive polarity towards (cell) = 7L,Name of control signal = L2voltage

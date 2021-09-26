@@ -1,0 +1,4 @@
+Ammeter,D2,1F,Positive polarity towards (cell) = 1G
+Resistor,Cout2,11H,0.01
+Diode,D2,1D,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 1E
+Capacitor,out2,6H,0.0001,Positive polarity towards (cell) = 5H

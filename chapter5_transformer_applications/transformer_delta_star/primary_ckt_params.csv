@@ -1,0 +1,18 @@
+Inductor,feedera,1E,0.002
+Inductor,feederb,10E,0.002
+Inductor,feederc,19E,0.002
+Resistor,feedera,1G,0.4
+Resistor,feederb,10G,0.4
+Resistor,feederc,19G,0.4
+VoltageSource,vrsca,1I,Peak (Volts) = 8981.350000,Frequency (Hertz) = 50.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 1J
+VoltageSource,vrscb,10I,Peak (Volts) = 8981.460000,Frequency (Hertz) = 50.000000,Phase (degrees) = -120.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 10J
+VoltageSource,vrscc,19I,Peak (Volts) = 8981.460000,Frequency (Hertz) = 50.000000,Phase (degrees) = -240.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 19J
+Ammeter,feedera,1K,Positive polarity towards (cell) = 1L
+Ammeter,feederb,10K,Positive polarity towards (cell) = 10L
+Ammeter,feederc,19K,Positive polarity towards (cell) = 19L
+Voltmeter,vsrcan,4G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 4H
+Voltmeter,srcab,7M,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 6M
+Voltmeter,vsrcbn,13G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 13H
+Voltmeter,srcbc,16M,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 15M
+Voltmeter,vsrccn,22G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 22H
+Voltmeter,srcca,25M,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 24M

@@ -1,0 +1,20 @@
+Ammeter,xfmer1wdg1curr,3F,Positive polarity towards (cell) = 4F
+Ammeter,xfmer1wdg2curr,3I,Positive polarity towards (cell) = 2I
+Ammeter,xfmer1wdg3curr,26I,Positive polarity towards (cell) = 25I
+Ammeter,xfmer1wdg4curr,50I,Positive polarity towards (cell) = 49I
+Voltmeter,xfmer1wdg1volt,8C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 7C
+Voltmeter,xfmer1wdg2volt,8K,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 9K
+Voltmeter,xfmer1wdg3volt,31K,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 32K
+Voltmeter,xfmer1wdg4volt,55K,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 56K
+VariableResistor,xfmer1wdg1res,6F,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg1res
+VariableResistor,xfmer1wdg2res,6I,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg2res
+VariableResistor,xfmer1wdg1loss,8A,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg1loss
+VariableResistor,xfmer1wdg2loss,8M,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg2loss
+VariableResistor,xfmer1wdg3res,29I,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg3res
+VariableResistor,xfmer1wdg3loss,31M,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg3loss
+VariableResistor,xfmer1wdg4res,53I,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg4res
+VariableResistor,xfmer1wdg4loss,55M,Initial resistance = 100.0,Name of control signal = Resistancexfmer1wdg4loss
+ControlledVoltageSource,xfmer1wdg1vsrc,11F,Positive polarity towards (cell) = 10F,Name of control signal = Voltagexfmer1wdg1vsrc
+ControlledVoltageSource,xfmer1wdg2vsrc,11I,Positive polarity towards (cell) = 12I,Name of control signal = Voltagexfmer1wdg2vsrc
+ControlledVoltageSource,xfmer1wdg3vsrc,34I,Positive polarity towards (cell) = 35I,Name of control signal = Voltagexfmer1wdg3vsrc
+ControlledVoltageSource,xfmer1wdg4vsrc,58I,Positive polarity towards (cell) = 59I,Name of control signal = Voltagexfmer1wdg4vsrc

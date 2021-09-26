@@ -1,0 +1,17 @@
+Inductor,loada,1G,0.006
+Inductor,loadb,10G,0.009
+Inductor,loadc,19G,0.012
+Resistor,loada,1E,2.0
+Resistor,loadb,10E,3.0
+Resistor,loadc,19E,4.0
+Resistor,loadneutral,32E,100.0
+Ammeter,loada,1I,Positive polarity towards (cell) = 1J
+Ammeter,loadb,10I,Positive polarity towards (cell) = 10J
+Ammeter,loadc,19I,Positive polarity towards (cell) = 19J
+Ammeter,loadneutral,32G,Positive polarity towards (cell) = 32H
+Voltmeter,vloadan,4G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 4F
+Voltmeter,vloadab,7C,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 6C
+Voltmeter,vloadbn,13G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 13F
+Voltmeter,vloadbc,16C,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 15C
+Voltmeter,vloadcn,22G,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 22F
+Voltmeter,vloadca,26C,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 25C

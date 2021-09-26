@@ -1,0 +1,6 @@
+Ammeter,Iin,1B,Positive polarity towards (cell) = 1C
+Resistor,Rin,4A,0.01
+Voltmeter,primary,5G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 4G
+Voltmeter,Vin,7E,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6E
+VoltageSource,Vin,8A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 7A
+Switch,S1,12I,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 13I,Name of control signal = S1gate

@@ -1,0 +1,5 @@
+Inductor,Vsrc,1C,0.0001
+Ammeter,Isrc,2A,Positive polarity towards (cell) = 1A
+VoltageSource,Vsrc,5A,Peak (Volts) = 339.410000,Frequency (Hertz) = 50.000000,Phase (degrees) = 0.000000,Dc offset = 0.000000,Positive polarity towards (cell) = 4A
+Voltmeter,Vsrc,7F,Rated voltage level to be measured = 20000.0,Positive polarity towards (cell) = 6F
+Resistor,Vsrc,8A,0.02

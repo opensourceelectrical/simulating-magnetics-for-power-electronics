@@ -1,0 +1,9 @@
+Description: This directory contains the simulation files for simulating an inductor from the simulator component library.
+
+Circuit schematics:
+inductor_ckt.csv with parameters in inductor_ckt_params.csv
+
+Will generate:
+
+ckt_output.dat (default simulator output file)
+

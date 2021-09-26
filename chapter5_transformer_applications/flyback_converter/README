@@ -1,0 +1,20 @@
+Description: This directory contains the simulation files for simulating a flyback converter.
+
+Circuit schematics:
+input_ckt.csv with parameters in input_ckt_params.csv
+transformer_model.csv with parameters in transformer_model_params.csv
+interface_ckt1.csv with parameters in interface_ckt1_params.csv
+interface_ckt2.csv with parameters in interface_ckt2_params.csv
+interface_ckt3.csv with parameters in interface_ckt3_params.csv
+load1.csv having passive R load with parameters in load1_params.csv
+load2.csv having passive R load with parameters in load2_params.csv
+load3.csv having passive R load with parameters in load3_params.csv
+
+
+Control files
+transformer_equations.py with control variables in transformer_equations_desc.csv
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)

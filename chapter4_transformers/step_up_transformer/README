@@ -1,0 +1,15 @@
+Description: This directory contains the simulation files for simulating a 240V:11kV transformer.
+
+Circuit schematics:
+primary_ckt.csv with parameters in primary_ckt_params.csv
+transformer.csv with parameters in transformer_params.csv
+secondary_ckt.csv having passive R-L load with parameters in secondary_ckt_params.csv
+
+
+Control files
+transformer_model.py with control variables in transformer_model_desc.csv
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)

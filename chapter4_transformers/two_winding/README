@@ -1,0 +1,17 @@
+Description: This directory contains the simulation files for simulating a 1:1 transformer.
+
+Circuit schematics:
+primary_ckt.csv with parameters in primary_ckt_params.csv
+transformer.csv with parameters in transformer_params.csv
+Secondary of the transformer can be one of the following options:
+	Option 1: secondary_ckt.csv having passive R-L load with parameters in secondary_ckt_params.csv
+	Option 2: secondary_ckt_volt_src.csv having another voltage source with parameters in secondary_ckt_volt_src_params.csv
+
+
+Control files
+transformer_model.py with control variables in transformer_model_desc.csv
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)

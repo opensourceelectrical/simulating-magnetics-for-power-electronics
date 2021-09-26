@@ -1,0 +1,5 @@
+Ammeter,Iin,2A,Positive polarity towards (cell) = 1A
+Voltmeter,in,7F,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6F
+Resistor,Vin,8A,0.01
+Resistor,L1,11K,15.0
+VoltageSource,Vin,5A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 4A

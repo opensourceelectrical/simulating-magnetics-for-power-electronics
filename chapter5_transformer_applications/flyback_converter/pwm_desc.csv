@@ -1,0 +1,6 @@
+Output, Element name in circuit spreadsheet = Switch_S1, Control tag defined in parameters spreadsheet = S1gate, Desired variable name in control code = sw_control, Initial output value = 0.0, 
+StaticVariable, Desired variable name in control code = carr_wave, Initial value of variable = 0.0, 
+TimeEvent, Desired variable name in control code = t1, First time event = 0.0, 
+VariableStorage, Desired variable name in control code = pwm_carr_wave, Initial value of variable = 0.0, Plot variable in output file = yes, 
+VariableStorage, Desired variable name in control code = pwm_duty_ratio, Initial value of variable = 0.0, Plot variable in output file = yes, 
+VariableStorage, Desired variable name in control code = pwm_sw_control, Initial value of variable = 0.0, Plot variable in output file = yes, 

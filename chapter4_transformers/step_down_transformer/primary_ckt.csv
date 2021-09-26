@@ -1,0 +1,14 @@
+wire,wire,Inductor_Vsrc,wire,wire,wire,wire,wire,wire,wire,jumpT1W1uppterminal
+Ammeter_Isrc,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+VoltageSource_Vsrc,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,Voltmeter_Vsrc,,,,,
+Resistor_Vsrc,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,jumpT1W1lowterminal

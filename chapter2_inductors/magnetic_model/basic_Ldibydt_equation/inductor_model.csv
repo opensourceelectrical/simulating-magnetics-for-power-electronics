@@ -1,0 +1,14 @@
+jumpind1term1,wire,wire,wire,wire,wire
+,,wire,,,wire
+,,wire,,,wire
+,,wire,,,wire
+,,wire,,,ControlledVoltageSource_ind1vsrc
+,,wire,,,wire
+,,Voltmeter_ind1meas,,,wire
+,,wire,,,wire
+,,wire,,,VariableResistor_ind1res
+,,wire,,,wire
+,,wire,,,wire
+,,wire,,,wire
+,,wire,,,wire
+jumpind1term2,wire,wire,wire,wire,wire

@@ -1,0 +1,14 @@
+jumpT1W1uppterminal,wire,wire,wire,wire,wire,wire,wire,Ammeter_T1W1,wire,wire,,,Ammeter_T1W2,wire,wire,wire,wire,wire,wire,wire,wire,jumpT1W2uppterminal
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,VariableResistor_T1W1output,,,VariableResistor_T1W2output,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,VariableResistor_T1W1Rc,,,Voltmeter_T1W1,,,,wire,,,wire,,,Voltmeter_T1W2,,,VariableResistor_T1W2Rc,,,
+,,,wire,,,wire,,,,ControlledVoltageSource_T1W1output,,,ControlledVoltageSource_T1W2output,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+,,,wire,,,wire,,,,wire,,,wire,,,wire,,,wire,,,
+jumpT1W1lowterminal,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,,,wire,wire,wire,wire,wire,wire,wire,wire,wire,jumpT1W2lowterminal

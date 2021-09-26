@@ -1,0 +1,19 @@
+Ammeter,L1,1F,Positive polarity towards (cell) = 1G
+Ammeter,C1,1T,Positive polarity towards (cell) = 1S
+Ammeter,L2,1AD,Positive polarity towards (cell) = 1AC
+Ammeter,Iin,2A,Positive polarity towards (cell) = 1A
+Ammeter,load,10AK,Positive polarity towards (cell) = 11AK
+Voltmeter,C1,4R,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 4Q
+Voltmeter,in,7D,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6D
+Voltmeter,out,7AH,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6AH
+Resistor,L1,1G,0.01
+Resistor,C1,1R,0.01
+Resistor,L2,1AC,0.01
+Resistor,load,7AK,10.0
+Resistor,Vin,8A,0.1
+Resistor,out,9AF,0.01
+Capacitor,C1,1P,0.0001,Positive polarity towards (cell) = 1O
+Capacitor,out,5AF,0.0001,Positive polarity towards (cell) = 4AF
+VoltageSource,Vin,5A,Peak (Volts) = 0.000000,Frequency (Hertz) = 0.000000,Phase (degrees) = 0.000000,Dc offset = 24.000000,Positive polarity towards (cell) = 4A
+Switch,S1,7L,Voltage level (V) = 1000.000000,Negative polarity towards (cell) = 8L,Name of control signal = s1gate
+Diode,D1,7X,Voltage level (V) = 1000.000000,Cathode polarity towards (cell) = 8X

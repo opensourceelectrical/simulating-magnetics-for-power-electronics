@@ -1,0 +1,10 @@
+Ammeter,T1W1,1I,Positive polarity towards (cell) = 1J
+Ammeter,T1W2,1N,Positive polarity towards (cell) = 2N
+Voltmeter,T1W1,7G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6G
+Voltmeter,T1W2,7Q,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6Q
+VariableResistor,T1W1output,4K,Initial resistance = 100.0,Name of control signal = resistorT1W1output
+VariableResistor,T1W2output,4N,Initial resistance = 100.0,Name of control signal = resistorT1W2output
+VariableResistor,T1W1Rc,7D,Initial resistance = 100.0,Name of control signal = resistorT1W1Rc
+VariableResistor,T1W2Rc,7T,Initial resistance = 100.0,Name of control signal = resistorT1W2Rc
+ControlledVoltageSource,T1W1output,8K,Positive polarity towards (cell) = 7K,Name of control signal = voltT1W1
+ControlledVoltageSource,T1W2output,8N,Positive polarity towards (cell) = 7N,Name of control signal = voltT1W2

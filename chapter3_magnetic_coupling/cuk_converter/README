@@ -1,0 +1,16 @@
+Description: This directory contains the simulation files for simulating a Cuk converter
+
+Circuit schematics:
+cuk_ckt.csv with parameters in cuk_ckt_params.csv
+coupled_inductors.csv with parameters in coupled_inductors_params.csv
+
+
+Control files
+magnetic_coupling_model.py with control variables in magnetic_coupling_model_desc.csv - this solves coupled inductors as simultaneous equations
+pwm.py with control variables in pwm_desc.py - this generates the gate signals for the Switch_S1
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)
+

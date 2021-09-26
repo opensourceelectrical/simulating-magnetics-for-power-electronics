@@ -1,0 +1,14 @@
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,jumpinductorL1upperterminal
+Ammeter_Iin,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+VoltageSource_Vin,,,,,wire,,,,,
+wire,,,,,wire,,,,,
+wire,,,,,Voltmeter_in,,,,,jumpinductorL1lowerterminal
+Resistor_Vin,,,,,wire,,,,,wire
+wire,,,,,wire,,,,,wire
+wire,,,,,wire,,,,,wire
+wire,,,,,wire,,,,,Resistor_L1
+wire,,,,,wire,,,,,wire
+wire,,,,,wire,,,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire,wire

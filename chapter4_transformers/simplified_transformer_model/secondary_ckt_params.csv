@@ -1,0 +1,12 @@
+Inductor,load,8I,0.03
+Inductor,load2,8U,0.12
+Inductor,load3,27I,0.0075
+Ammeter,load,4I,Positive polarity towards (cell) = 5I
+Ammeter,load2,4U,Positive polarity towards (cell) = 5U
+Ammeter,load3,23I,Positive polarity towards (cell) = 24I
+Voltmeter,load,8C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 7C
+Voltmeter,load2,8O,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 7O
+Voltmeter,load3,27C,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 26C
+Resistor,load,11I,10.0
+Resistor,load2,11U,40.0
+Resistor,load3,30I,2.5

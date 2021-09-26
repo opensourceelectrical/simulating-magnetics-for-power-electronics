@@ -1,0 +1,3 @@
+Ammeter,load,2G,Positive polarity towards (cell) = 3G
+Resistor,load,9G,10.0
+Voltmeter,Vo,10D,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 9D

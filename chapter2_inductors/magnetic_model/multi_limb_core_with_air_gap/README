@@ -1,0 +1,15 @@
+Description: This directory contains the simulation files for simulating an inductor by solving the magnetic circuit of a coil wound on a core with multiple limbs and air gaps.
+
+Circuit schematics:
+inductor_ckt.csv with parameters in inductor_ckt_params.csv
+inductor_model.csv with parameters in inductor_model_params.csv
+
+
+Control files
+ind_model.py with control variables in ind_model_desc.csv
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)
+

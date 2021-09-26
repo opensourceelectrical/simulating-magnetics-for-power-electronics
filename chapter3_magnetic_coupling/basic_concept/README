@@ -1,0 +1,25 @@
+Description: This directory contains the simulation files for simulating a set of coupled inductors with one of them energized by a 24V dc supply and the other feeding a resistor.
+
+Circuit schematics:
+test_ckt.csv with parameters in test_ckt_params.csv
+load.csv with parameters in load_params.csv
+coupled_inductors.csv with parameters in:
+	Option 1: coupled_inductors_assisting_params.csv for coupled coils wound such that fluxes assist.
+	Option 2: coupled_inductors_opposing_params.csv for coupled coils wound such that fluxes oppose.
+
+
+Control files
+Only one control file is needed from the following two options.
+Option 1:
+magnetic_coupling_model.py with control variables in magnetic_coupling_model_desc.csv - this solves coupled inductors as a matrix equation
+Option 2:
+magnetic_coupling_model_simultaneous_eqns.py with control variables in magnetic_coupling_model_simultaneous_eqns_desc.py - this solves the magnetic equations as simultaneous equations.
+
+
+Additional files:
+triangularization.py - this file describes the concept of converting a matrix to upper triangular form.
+
+
+Will generate:
+
+ckt_output.dat (default simulator output file)

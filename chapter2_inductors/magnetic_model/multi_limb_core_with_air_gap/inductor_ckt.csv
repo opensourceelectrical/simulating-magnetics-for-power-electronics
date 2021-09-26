@@ -1,0 +1,16 @@
+wire,Ammeter_Vin,wire,wire,wire,wire,wire,wire,wire
+wire,,,,,wire,,,wire
+wire,,,,,wire,,,wire
+wire,,,,,wire,,,wire
+Resistor_Vin,,,,,wire,,,wire
+wire,,,,,Resistor_R1,,,wire
+wire,,,,,wire,,,wire
+wire,,,,,wire,,,Voltmeter_Vo
+VoltageSource_Vin,,,,,wire,,,wire
+wire,,,,,jumpind1term1,,,wire
+wire,,,,,,,,wire
+wire,,,,,,,,wire
+wire,,,,,jumpind1term2,,,wire
+wire,,,,,wire,,,wire
+wire,,,,,wire,,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire

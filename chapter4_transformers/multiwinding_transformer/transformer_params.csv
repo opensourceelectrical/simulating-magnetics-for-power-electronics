@@ -1,0 +1,20 @@
+Ammeter,T1W1,1I,Positive polarity towards (cell) = 1H
+Ammeter,T1W2,1N,Positive polarity towards (cell) = 1O
+Ammeter,T1W4,19I,Positive polarity towards (cell) = 19H
+Ammeter,T1W3,19N,Positive polarity towards (cell) = 20N
+Voltmeter,T1W1,7G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6G
+Voltmeter,T1W2,7Q,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 6Q
+Voltmeter,T1W4,25G,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 26G
+Voltmeter,T1W3,25Q,Rated voltage level to be measured = 1000.0,Positive polarity towards (cell) = 24Q
+VariableResistor,T1W1output,4K,Initial resistance = 100.0,Name of control signal = ResistanceT1W1output
+VariableResistor,T1W2output,4N,Initial resistance = 100.0,Name of control signal = ResistanceT1W2output
+VariableResistor,T1W1Rc,7D,Initial resistance = 100.0,Name of control signal = ResistanceT1W1Rc
+VariableResistor,T1W2Rc,7T,Initial resistance = 100.0,Name of control signal = ResistanceT1W2Rc
+VariableResistor,T1W4output,22K,Initial resistance = 100.0,Name of control signal = ResistanceT1W4output
+VariableResistor,T1W3output,22N,Initial resistance = 100.0,Name of control signal = ResistanceT1W3output
+VariableResistor,T1W4Rc,25D,Initial resistance = 100.0,Name of control signal = ResistanceT1W4Rc
+VariableResistor,T1W3Rc,25T,Initial resistance = 100.0,Name of control signal = ResistanceT1W3Rc
+ControlledVoltageSource,T1W1output,8K,Positive polarity towards (cell) = 7K,Name of control signal = VoltageT1W1output
+ControlledVoltageSource,T1W2output,8N,Positive polarity towards (cell) = 7N,Name of control signal = VoltageT1W2output
+ControlledVoltageSource,T1W4output,26K,Positive polarity towards (cell) = 27K,Name of control signal = VoltageT1W4output
+ControlledVoltageSource,T1W3output,26N,Positive polarity towards (cell) = 25N,Name of control signal = VoltageT1W3output
